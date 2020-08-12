@@ -24,7 +24,8 @@ Model Building: Train_embedding file is used to build the embedding vector for e
 
 Model Application: Model build in the previous step would be called to deserialized and used to detect faces in the pile of images and take action.
 
-Further details abour this solution avaialble on my blog-post ->
+Further details abour this solution avaialble on my blog-post -> https://medium.com/@twarit.nigam/application-of-ai-computer-vision-in-combating-mobile-data-storage-issues-4ff187db10cd?sk=77b319b1cd09b7ad9493f9c3b3773691
+
 
 
 
